@@ -1,8 +1,4 @@
-Here’s the updated **GitHub-formatted** `README.md` file with **Step 5 (Connecting Kafka UI to Kafka) moved to the last step**:
 
----
-
-```md
 # High Availability Kafka Cluster in Kubernetes
 
 This repository contains a step-by-step guide to provision a **Highly Available (HA) Kafka Cluster** inside **Kubernetes**, using **KIND (Kubernetes in Docker)** for local experimentation. The setup includes **Kafka UI for monitoring** and management.
