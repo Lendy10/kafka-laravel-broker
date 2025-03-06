@@ -1,0 +1,4 @@
+yamlApplicationConfig:
+  dynamic:
+    config:
+      enabled: true
